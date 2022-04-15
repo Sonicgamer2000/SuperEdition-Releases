@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"No-Villians",
+			"supersonic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "??",
+	"weekName": "?",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "vs-exefullweek",
+	"startUnlocked": false
+}

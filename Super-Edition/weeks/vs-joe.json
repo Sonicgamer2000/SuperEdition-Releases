@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Joe-Mama",
+			"joe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deez Nuts",
+			"joe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"The-ALmighty-Samolc",
+			"joe",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "something",
+	"difficulties": "Super Hard",
+	"weekCharacters": [
+		"Joe",
+		"bf",
+		"gf"
+	],
+	"storyName": "Vs. Co-Creator",
+	"weekName": "Mr. Joe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "vs-teamsuper",
+	"startUnlocked": false
+}

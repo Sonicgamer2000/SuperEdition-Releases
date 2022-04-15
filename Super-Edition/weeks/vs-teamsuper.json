@@ -1,0 +1,59 @@
+{
+	"storyName": "Vs Super Edition",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Encounter",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Darkness",
+			"tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Knucklehead",
+			"knuckles",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bossbattle",
+			"eggman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"tails",
+		"sonic",
+		"knuckles"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Super Edition"
+}

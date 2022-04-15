@@ -1,0 +1,50 @@
+{
+	"storyName": "Round 1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "vs-teamsuper",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Too-Slow",
+			"sonic-reopponent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"You-Cant-Run",
+			"sonic-reopponent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Triple-Trouble-1-5",
+			"xenophanes",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "HUH"
+}
