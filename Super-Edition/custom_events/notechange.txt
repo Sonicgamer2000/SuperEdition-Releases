@@ -1,0 +1,3 @@
+Value 1: New not texture
+
+Value 2: Undefined
