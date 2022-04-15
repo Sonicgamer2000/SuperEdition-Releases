@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-85,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel NOTE UP"
+		},
+		{
+			"offsets": [
+				-110,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-75,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Sonic_EXE_Pixel idle0000"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/super_knuckles_assets",
+	"position": [
+		400,
+		450
+	],
+	"healthicon": "knuckles",
+	"flip_x": true,
+	"healthbar_colors": [
+		252,
+		252,
+		252
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

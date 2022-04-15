@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel idle"
+		},
+		{
+			"offsets": [
+				25,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel NOTE UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic_EXE_Pixel NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transformation",
+			"indices": [],
+			"name": "transformation"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hyper_sonic_assets",
+	"position": [
+		240,
+		480
+	],
+	"healthicon": "supersonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		216,
+		251
+	],
+	"camera_position": [
+		150,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 10
+}
