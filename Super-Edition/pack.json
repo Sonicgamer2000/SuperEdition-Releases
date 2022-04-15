@@ -1,0 +1,6 @@
+{
+	"name": "SuperEdition",
+	"description": "The Release",
+	"restart":false,
+	"color": [170, 0, 255]
+}
