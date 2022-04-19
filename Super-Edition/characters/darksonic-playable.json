@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				30,
+				0,
 				-10
 			],
 			"loop": false,
@@ -13,65 +13,65 @@
 		},
 		{
 			"offsets": [
-				45,
-				-10
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Sonic_EXE_Pixel NOTE UP"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-30,
-				-10
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Sonic_EXE_Pixel NOTE RIGHT",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
 				-25,
 				-10
 			],
+			"loop": false,
+			"fps": 25,
 			"anim": "idle",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel idle"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "Sonic_EXE_Pixel idle0000",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-100,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-85,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sonic_EXE_Pixel NOTE UP"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/super_sonic_assets",
+	"image": "characters/dark_sonic",
 	"position": [
 		240,
-		480
+		180
 	],
-	"healthicon": "sonic",
+	"healthicon": "darksonic",
 	"flip_x": false,
 	"healthbar_colors": [
-		252,
-		252,
-		18
+		38,
+		43,
+		68
 	],
 	"camera_position": [
-		250,
-		-170
+		-250,
+		-150
 	],
 	"sing_duration": 4,
 	"scale": 10

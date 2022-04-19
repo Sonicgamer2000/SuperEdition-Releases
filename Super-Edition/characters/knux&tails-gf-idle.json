@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Knux & Tails Idle Right"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Knux & Tails Idle Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sprites-p2/gf_sprites",
+	"position": [
+		-300,
+		450
+	],
+	"healthicon": "none",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

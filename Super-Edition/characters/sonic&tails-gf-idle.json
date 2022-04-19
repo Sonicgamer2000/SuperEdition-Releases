@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Sonic & Tails Idle Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Sonic & Tails Idle Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sprites-p2/gf_sprites",
+	"position": [
+		150,
+		400
+	],
+	"healthicon": "none",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 10
+}
